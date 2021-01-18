@@ -1,0 +1,96 @@
+[02-Aug-2019 03:10:53 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[02-Aug-2019 15:28:25 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[02-Aug-2019 15:40:07 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[02-Aug-2019 16:36:35 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[02-Aug-2019 16:36:35 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[02-Aug-2019 16:36:41 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[07-Aug-2019 04:15:01 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[13-Aug-2019 23:45:13 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[17-Aug-2019 15:45:56 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[17-Aug-2019 15:45:58 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[18-Aug-2019 00:11:55 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50
+[26-Aug-2019 15:05:21 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/softjtst/public_html/app/Exceptions/Handler.php:50
+Stack trace:
+#0 /home/softjtst/public_html/app/Exceptions/Handler.php(50): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/softjtst/...', 50, Array)
+#1 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/softjtst/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/softjtst/public_html/app/Exceptions/Handler.php on line 50

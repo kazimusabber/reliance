@@ -1,0 +1,68 @@
+html,body{
+    color: #444 !important;
+}
+.rely-img {
+	height: 537px;
+}
+.video-section-area-1 {
+    height: 507px;
+}
+.relu-ul{
+    list-style-type: square;
+    margin-left: 21px;
+}
+.backgroundText{
+	padding-right: 30px;
+}
+
+ul.whyChose {
+    margin: 25px;
+}
+.whyChoseImg {
+	min-height: 836px;
+}
+.topFecherImg {
+    min-height: 677px;
+    margin-top: 55px;
+}
+.rs-pricing .pricing-plan .pricing-body ul {
+    padding-left: 30px;
+   
+}
+.rs-pricing .pricing-plan {
+    min-height: 618px;
+}
+.rs-services-3.services-pages .common {
+    min-height: 117px;
+}
+.topFecherIns {
+    min-height: 637px;
+}
+.why-choose-us .services-responsibiity .services-item .services-desc {
+    margin-top: 10px;
+}
+#rs-header .menu-area .rs-menu ul li .sub-menu li a.nav-active {
+    color: #6a9708 !important;
+}
+.service-details-section .services-left-sidebar .two-content-box ul li, .service-details-section .services-left-sidebar .sinlge-middle-content ul li{
+    color: #444;
+}
+.text-danger {
+    color: red;
+}
+.whyChoseSms {
+    min-height: 739px;
+    margin-top: 55px;
+}
+
+.whyChoseMms {
+    min-height: 765px;
+    margin-top: 55px;
+}
+.topFecherMms {
+    min-height: 585px;
+    margin-top: 55px;
+}
+.keySegmentIms{
+    margin-top: 55px;
+}
